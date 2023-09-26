@@ -62,7 +62,7 @@ fn main() {
                         width: width as usize,
                     }
                     .text(Text::new(
-                        "Pack my box with five dozen liquor jugs".to_owned(),
+                        "Sphinx of black quartz, judge my vow".to_owned(),
                         typeface(),
                     ));
 
